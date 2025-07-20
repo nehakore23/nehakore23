@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>🎓 MCA Graduate | PG-DAC Student at CDAC Mumbai (2025)<br>💻 Skilled in Python, Django, JavaScript, HTML, CSS, and MySQL<br>🛠️ Completed internship as a Web Developer using Django and Python<br>🌱 Currently learning React Js,Node.js, Spring Boot, and Docker<br>📈 I enjoy analyzing system workflows and improving app performance.<br>🛠️ I love turning rough ideas into clean, working software using full-stack tools.<br>🎯 My goal is to become a confident backend developer with strong deployment skills.<br>📍 Currently in Pune, Maharashtra, India
+<br>🎓 MCA Graduate | PG-DAC Student at CDAC Mumbai (2025)<br>💻 Skilled in Python, Django, JavaScript, HTML, CSS, and MySQL<br>🛠️ Completed internship as a Web Developer using Django and Python<br>🌱 Currently learning React Js,Node.js, Spring Boot, and Docker<br>📈 I enjoy analyzing system workflows and improving app performance.<br>🛠️ I love turning rough ideas into clean, working software using full-stack tools.<br>🎯 My goal is to become a confident software developer with strong deployment skills.<br>📍 Currently in Pune, Maharashtra, India
 
 
 ## 🌐 Socials:
